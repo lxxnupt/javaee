@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	width:700px;
+	margin:0 auto;
+	font-size:15px;
+}
+
+#head{
+	height:100px;	
+	background:url(../image/picture.jpg) no-repeat  center center;
+}
+
+
+#left{
+	height:450px;
+	background:#ddd;
+	float:left;
+	width:100px;
+}
+#copyright{
+	height:50px;
+	background:url(../image/copyrightbg.jpg) repeat-x  top left;
+	clear:both;
+}
+#copyright p{
+	height:25px;
+	line-heigth:25px;
+	color:#fd0;;
+	font-size:15px;
+	text-align:center;
+
+	}

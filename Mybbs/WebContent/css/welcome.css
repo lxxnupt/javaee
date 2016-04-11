@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+#left  ul{
+	list-style-type:none;
+	padding-top:20px;
+	text-align:center;
+}
+#left  ul li a{
+	display:block;
+	height:25px;
+	color:#333;
+	text-decoration:none;
+}
+#left  ul li a:hover{
+	color:#06f;
+}
+#right  #welcome{
+	font-size:15px;
+	list-style-type:none;
+	padding-top:5px;
+	text-indent:5px;
+}
+#right  #welcome li{
+	display:inline;
+}
+#right  #welcome li a{
+	display:block-inline;
+	height:25px;
+	color:#333;
+	text-decoration:none;
+}
+#right  #welcome li a:hover{
+	color:#06f;
+}

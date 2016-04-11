@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+#right{
+	width:600px;
+	height:450px;
+	float:left;
+	font-size:15px;
+}
+#right #information{
+	text-align:center;
+	list-style-type:none;
+}
+#right #information li{
+	padding-top:10px;
+}
+#right  p a{
+	display:block;
+	height:25px;
+	color:#333;
+	text-decoration:none;
+	padding-left:10px;
+}
+#right  p a:hover{
+	color:#06f;
+}

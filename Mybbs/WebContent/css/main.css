@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+#right{
+	width:600px;
+	height:450px;
+	float:left;
+	font-size:15px;
+}
+#right div{
+	padding-left:10px;
+} 
+#right table{
+	border:1px solid #06f;
+	margin:5px  auto ;
+	border-collapse:collapse; 	
+	text-align:center;
+}
+#right table tr{
+	height:25px;
+	border:none;
+}
+#right table td{
+	border:1px solid #06f;
+	padding:5px;
+}
+#right a{
+	text-decoration:none;
+	color:#333;
+}
+#right .orange:hover{
+	background-color:#f60;
+}
+

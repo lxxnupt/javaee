@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+#right{
+	
+height:450px;
+}
+#right p{
+	padding-top:10px;
+	text-indent:20px;
+}
+#right #title{
+	width:440px;
+}
+#right .area{
+	width:563px;
+	height:250px;
+}
+#right #submit{
+	font-size:15px;
+}

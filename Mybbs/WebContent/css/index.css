@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+
+
+
+#login{
+	width:600px;
+	height:300px;
+	text-align:center;
+	font-size:20px;
+	line-height:20px;
+	float:left;
+	background:url(../image/mainbg.jpg) no-repeat  top left;
+}
+#login form{
+	margin-top:50px;
+}
+#login p{
+	margin-top:20px;
+}
+#login #submit{
+	font-size:15px;
+}
+
+#register{
+	width:600px;
+	height:150px;
+	float:left;
+}	

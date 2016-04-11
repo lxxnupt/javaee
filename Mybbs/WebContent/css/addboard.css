@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+#right{
+	height:450px;
+}
+#right .suojin{
+	text-indent:10px;
+}
+#right form p{
+	padding-top:10px;
+}
+#right .description{
+	height:50px;
+	
+}

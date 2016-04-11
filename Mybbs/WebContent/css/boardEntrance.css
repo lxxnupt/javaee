@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+#right{
+	height:450px;
+	overflow-y:scroll;
+}
+#right  .fenye{
+	text-align:center;
+	height:25px;
+}
+#right .description{
+	text-indent:10px;
+	padding-bottom:10px;
+}
+#right table{
+	border:1px solid #06f;
+	margin:10px 5px ;
+	border-collapse:collapse; 	
+}
+#right table tr{
+	height:30px;
+	border:none;
+}
+#right table td{
+	border:1px solid #06f;
+	text-align:center;
+	padding:5px 5px 5px 5px;
+}
+#right a{
+	text-decoration:none;
+	color:#333;
+}
+#right  a:hover{
+	color:#06f;
+}
+#right #addpost {
+	display:block-incline;
+	text-indent:35px;
+	margin-top:10px;
+}
+#right .orange:hover{
+	background-color:#f60;
+}

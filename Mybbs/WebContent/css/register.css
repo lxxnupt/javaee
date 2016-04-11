@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+#right{
+	width:600px;
+	height:450px;
+	float:left;
+	font-size:20px;
+	text-align:center;
+}
+#right  p{
+	margin-top:10px;
+}
+#right  #submit{
+	font-size:15px;
+}
+#right form{
+	margin-top:50px;
+}
